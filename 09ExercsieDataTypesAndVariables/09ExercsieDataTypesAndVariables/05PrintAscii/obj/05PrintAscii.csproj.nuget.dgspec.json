@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dani's PC\\Desktop\\SoftUni\\ProgrammingFundamentalsWithCSharp\\09ExercsieDataTypesAndVariables\\09ExercsieDataTypesAndVariables\\01IntegerOperations\\01IntegerOperations.csproj": {}
+    "C:\\Users\\Dani's PC\\Desktop\\SoftUni\\ProgrammingFundamentalsWithCSharp\\09ExercsieDataTypesAndVariables\\09ExercsieDataTypesAndVariables\\05PrintAscii\\05PrintAscii.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dani's PC\\Desktop\\SoftUni\\ProgrammingFundamentalsWithCSharp\\09ExercsieDataTypesAndVariables\\09ExercsieDataTypesAndVariables\\01IntegerOperations\\01IntegerOperations.csproj": {
+    "C:\\Users\\Dani's PC\\Desktop\\SoftUni\\ProgrammingFundamentalsWithCSharp\\09ExercsieDataTypesAndVariables\\09ExercsieDataTypesAndVariables\\05PrintAscii\\05PrintAscii.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dani's PC\\Desktop\\SoftUni\\ProgrammingFundamentalsWithCSharp\\09ExercsieDataTypesAndVariables\\09ExercsieDataTypesAndVariables\\01IntegerOperations\\01IntegerOperations.csproj",
-        "projectName": "01IntegerOperations",
-        "projectPath": "C:\\Users\\Dani's PC\\Desktop\\SoftUni\\ProgrammingFundamentalsWithCSharp\\09ExercsieDataTypesAndVariables\\09ExercsieDataTypesAndVariables\\01IntegerOperations\\01IntegerOperations.csproj",
+        "projectUniqueName": "C:\\Users\\Dani's PC\\Desktop\\SoftUni\\ProgrammingFundamentalsWithCSharp\\09ExercsieDataTypesAndVariables\\09ExercsieDataTypesAndVariables\\05PrintAscii\\05PrintAscii.csproj",
+        "projectName": "05PrintAscii",
+        "projectPath": "C:\\Users\\Dani's PC\\Desktop\\SoftUni\\ProgrammingFundamentalsWithCSharp\\09ExercsieDataTypesAndVariables\\09ExercsieDataTypesAndVariables\\05PrintAscii\\05PrintAscii.csproj",
         "packagesPath": "C:\\Users\\Dani's PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dani's PC\\Desktop\\SoftUni\\ProgrammingFundamentalsWithCSharp\\09ExercsieDataTypesAndVariables\\09ExercsieDataTypesAndVariables\\01IntegerOperations\\obj\\",
+        "outputPath": "C:\\Users\\Dani's PC\\Desktop\\SoftUni\\ProgrammingFundamentalsWithCSharp\\09ExercsieDataTypesAndVariables\\09ExercsieDataTypesAndVariables\\05PrintAscii\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

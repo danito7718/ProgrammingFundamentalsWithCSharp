@@ -1,18 +1,15 @@
-<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "swsWSOAVa8jbvzrf8IhMgVq/J9jVK8s9cXiap8ddMDf00y4rvwSaG2ntMYNk2AfdqtGPKLnv0k3tAvWsFU6xgg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dani's PC\\Desktop\\SoftUni\\ProgrammingFundamentalsWithCSharp\\09ExercsieDataTypesAndVariables\\09ExercsieDataTypesAndVariables\\01IntegerOperations\\01IntegerOperations.csproj",
   "expectedPackageFiles": [],
-  "logs": []
-=======
-{
-  "version": 2,
-  "dgSpecHash": "swsWSOAVa8jbvzrf8IhMgVq/J9jVK8s9cXiap8ddMDf00y4rvwSaG2ntMYNk2AfdqtGPKLnv0k3tAvWsFU6xgg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Dani's PC\\Desktop\\SoftUni\\ProgrammingFundamentalsWithCSharp\\09ExercsieDataTypesAndVariables\\09ExercsieDataTypesAndVariables\\01IntegerOperations\\01IntegerOperations.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
->>>>>>> 97827fb911219f72fdab19b4d66b768fd7aaec93
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Dani's PC\\Desktop\\SoftUni\\ProgrammingFundamentalsWithCSharp\\09ExercsieDataTypesAndVariables\\09ExercsieDataTypesAndVariables\\01IntegerOperations\\obj\\project.nuget.cache : Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+    }
+  ]
 }
