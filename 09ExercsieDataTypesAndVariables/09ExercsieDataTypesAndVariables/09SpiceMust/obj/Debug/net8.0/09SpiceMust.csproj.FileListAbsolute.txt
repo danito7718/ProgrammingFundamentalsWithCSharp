@@ -1,0 +1,15 @@
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\bin\Debug\net8.0\09SpiceMust.exe
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\bin\Debug\net8.0\09SpiceMust.deps.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\bin\Debug\net8.0\09SpiceMust.runtimeconfig.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\bin\Debug\net8.0\09SpiceMust.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\bin\Debug\net8.0\09SpiceMust.pdb
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\obj\Debug\net8.0\09SpiceMust.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\obj\Debug\net8.0\09SpiceMust.AssemblyInfoInputs.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\obj\Debug\net8.0\09SpiceMust.AssemblyInfo.cs
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\obj\Debug\net8.0\09SpiceMust.csproj.CoreCompileInputs.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\obj\Debug\net8.0\09SpiceMust.sourcelink.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\obj\Debug\net8.0\09SpiceMust.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\obj\Debug\net8.0\refint\09SpiceMust.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\obj\Debug\net8.0\09SpiceMust.pdb
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\obj\Debug\net8.0\09SpiceMust.genruntimeconfig.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\09SpiceMust\obj\Debug\net8.0\ref\09SpiceMust.dll
