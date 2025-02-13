@@ -1,0 +1,15 @@
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\bin\Debug\net8.0\07OverflowWate.exe
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\bin\Debug\net8.0\07OverflowWate.deps.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\bin\Debug\net8.0\07OverflowWate.runtimeconfig.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\bin\Debug\net8.0\07OverflowWate.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\bin\Debug\net8.0\07OverflowWate.pdb
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\obj\Debug\net8.0\07OverflowWate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\obj\Debug\net8.0\07OverflowWate.AssemblyInfoInputs.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\obj\Debug\net8.0\07OverflowWate.AssemblyInfo.cs
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\obj\Debug\net8.0\07OverflowWate.csproj.CoreCompileInputs.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\obj\Debug\net8.0\07OverflowWate.sourcelink.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\obj\Debug\net8.0\07OverflowWate.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\obj\Debug\net8.0\refint\07OverflowWate.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\obj\Debug\net8.0\07OverflowWate.pdb
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\obj\Debug\net8.0\07OverflowWate.genruntimeconfig.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\07OverflowWate\obj\Debug\net8.0\ref\07OverflowWate.dll
