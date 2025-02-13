@@ -1,0 +1,15 @@
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\bin\Debug\net8.0\06TriplesLatin.exe
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\bin\Debug\net8.0\06TriplesLatin.deps.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\bin\Debug\net8.0\06TriplesLatin.runtimeconfig.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\bin\Debug\net8.0\06TriplesLatin.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\bin\Debug\net8.0\06TriplesLatin.pdb
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\obj\Debug\net8.0\06TriplesLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\obj\Debug\net8.0\06TriplesLatin.AssemblyInfoInputs.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\obj\Debug\net8.0\06TriplesLatin.AssemblyInfo.cs
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\obj\Debug\net8.0\06TriplesLatin.csproj.CoreCompileInputs.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\obj\Debug\net8.0\06TriplesLatin.sourcelink.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\obj\Debug\net8.0\06TriplesLatin.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\obj\Debug\net8.0\refint\06TriplesLatin.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\obj\Debug\net8.0\06TriplesLatin.pdb
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\obj\Debug\net8.0\06TriplesLatin.genruntimeconfig.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\06TriplesLatin\obj\Debug\net8.0\ref\06TriplesLatin.dll

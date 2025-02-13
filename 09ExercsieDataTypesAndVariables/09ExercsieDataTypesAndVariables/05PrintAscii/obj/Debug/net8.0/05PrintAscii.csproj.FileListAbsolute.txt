@@ -1,0 +1,15 @@
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\bin\Debug\net8.0\05PrintAscii.exe
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\bin\Debug\net8.0\05PrintAscii.deps.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\bin\Debug\net8.0\05PrintAscii.runtimeconfig.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\bin\Debug\net8.0\05PrintAscii.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\bin\Debug\net8.0\05PrintAscii.pdb
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\obj\Debug\net8.0\05PrintAscii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\obj\Debug\net8.0\05PrintAscii.AssemblyInfoInputs.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\obj\Debug\net8.0\05PrintAscii.AssemblyInfo.cs
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\obj\Debug\net8.0\05PrintAscii.csproj.CoreCompileInputs.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\obj\Debug\net8.0\05PrintAscii.sourcelink.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\obj\Debug\net8.0\05PrintAscii.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\obj\Debug\net8.0\refint\05PrintAscii.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\obj\Debug\net8.0\05PrintAscii.pdb
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\obj\Debug\net8.0\05PrintAscii.genruntimeconfig.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\09ExercsieDataTypesAndVariables\05PrintAscii\obj\Debug\net8.0\ref\05PrintAscii.dll

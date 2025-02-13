@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01IntegerOperations", "01IntegerOperations\01IntegerOperations.csproj", "{FCD319C6-307B-4694-AC10-1A0AF88969B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02SumDigits", "02SumDigits\02SumDigits.csproj", "{9F0359B8-73FF-4A67-A678-6D38F9AFEBE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02SumDigits", "02SumDigits\02SumDigits.csproj", "{9F0359B8-73FF-4A67-A678-6D38F9AFEBE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03Elevator", "03Elevator\03Elevator.csproj", "{9ED14539-4D29-4BE5-AB2F-B5D84ABBC28A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Elevator", "03Elevator\03Elevator.csproj", "{9ED14539-4D29-4BE5-AB2F-B5D84ABBC28A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04SumOfChars", "04SumOfChars\04SumOfChars.csproj", "{A3087A81-CD1D-4750-BCAC-82CF72AA5F0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04SumOfChars", "04SumOfChars\04SumOfChars.csproj", "{A3087A81-CD1D-4750-BCAC-82CF72AA5F0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05PrintAscii", "05PrintAscii\05PrintAscii.csproj", "{4CF7C016-D98C-43B2-99BD-114824C96688}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05PrintAscii", "05PrintAscii\05PrintAscii.csproj", "{4CF7C016-D98C-43B2-99BD-114824C96688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06TriplesLatin", "06TriplesLatin\06TriplesLatin.csproj", "{A2F22C21-FD75-40E1-8ED0-959C81208502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01IntOperation", "01IntOperation\01IntOperation.csproj", "{7455B6DE-AF56-41D0-960C-C923429A6652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07OverflowWate", "07OverflowWate\07OverflowWate.csproj", "{B14F7C9A-8499-4450-9518-D2ED8CC4D3D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +23,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FCD319C6-307B-4694-AC10-1A0AF88969B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FCD319C6-307B-4694-AC10-1A0AF88969B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FCD319C6-307B-4694-AC10-1A0AF88969B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FCD319C6-307B-4694-AC10-1A0AF88969B7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9F0359B8-73FF-4A67-A678-6D38F9AFEBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9F0359B8-73FF-4A67-A678-6D38F9AFEBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F0359B8-73FF-4A67-A678-6D38F9AFEBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +39,18 @@ Global
 		{4CF7C016-D98C-43B2-99BD-114824C96688}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CF7C016-D98C-43B2-99BD-114824C96688}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CF7C016-D98C-43B2-99BD-114824C96688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F22C21-FD75-40E1-8ED0-959C81208502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F22C21-FD75-40E1-8ED0-959C81208502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F22C21-FD75-40E1-8ED0-959C81208502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F22C21-FD75-40E1-8ED0-959C81208502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7455B6DE-AF56-41D0-960C-C923429A6652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7455B6DE-AF56-41D0-960C-C923429A6652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7455B6DE-AF56-41D0-960C-C923429A6652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7455B6DE-AF56-41D0-960C-C923429A6652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14F7C9A-8499-4450-9518-D2ED8CC4D3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14F7C9A-8499-4450-9518-D2ED8CC4D3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14F7C9A-8499-4450-9518-D2ED8CC4D3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14F7C9A-8499-4450-9518-D2ED8CC4D3D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

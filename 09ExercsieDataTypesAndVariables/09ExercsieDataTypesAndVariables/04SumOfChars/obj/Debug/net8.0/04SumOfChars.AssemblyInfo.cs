@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04SumOfChars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63b7771c2f8442bf8ae2cd802d05e6cb35884e3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f89e1581d3f914fe49312a87b6bfcbcb1dfd8897")]
 [assembly: System.Reflection.AssemblyProductAttribute("04SumOfChars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04SumOfChars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
